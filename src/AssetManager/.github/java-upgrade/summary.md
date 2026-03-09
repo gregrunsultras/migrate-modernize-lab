@@ -133,9 +133,9 @@ All existing dependencies are compatible with Java 21 and Spring Boot 3.3:
 ### Modern Features Available
 - ✅ Pattern matching for switch expressions
 - ✅ Record patterns
-- ✅ Virtual threads (preview in 21)
+- ✅ Virtual threads (standard feature in Java 21)
 - ✅ Sequenced collections
-- ✅ String templates (preview in 21)
+- ✅ Unnamed patterns and variables
 
 ## Recommendations
 
